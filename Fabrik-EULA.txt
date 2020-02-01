@@ -4,7 +4,7 @@
 
 # 파브릭팀 최종 라이센스 안내
 
-https://github.com/Flug-in-Fablik 에서 배포되는 모든 개발 작업 품들은 Fabrik-EULA을 따라야 한다.
+https://github.com/Flug-in-Fabrik 에서 배포되는 모든 개발 작업 품들은 Fabrik-EULA을 따라야 한다.
 
 # Fabrik-EULA 전문 파일
 
