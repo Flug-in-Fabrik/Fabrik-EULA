@@ -1,0 +1,5 @@
+Fabrik-EULA 안내
+
+파브릭팀 최종라이센스 안내
+
+https://github.com/Flug-in-Fablik 에서 배포되는 모든 개발 작업품들은 Fabrik-EULA을 따라야 합니다.
