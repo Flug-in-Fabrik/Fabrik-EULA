@@ -47,4 +47,4 @@ Fabrik-EULA 라이선스
 이라이선스를 위반하는 행위가 있을경우 저작권자는 이를중단을 요청할수있고 만약 이를 어길시 지적재산권을 침해행위 혹은 지적재산권 방조책임을 민형사적으로 지게될 수있다.
 
 
-Copyright (C) 2019 Flug-in-Fabrik,All rights reserved.
+Copyright (C) 2020 Flug-in-Fabrik,All rights reserved.
