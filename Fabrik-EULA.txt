@@ -8,7 +8,7 @@ https://github.com/Flug-in-Fabrik 에서 배포되는 모든 개발 작업 품�
 
 # Fabrik-EULA 전문 파일
 
-http://github.com/Flug-in-Fabrik 에서 제공되는 모든 소프트웨어는 License.md 을 배포하겠다.
+http://github.com/Flug-in-Fabrik 에서 제공되는 모든 소프트웨어는 README.md 을 배포하겠다.
 
 # Fabrik-EULA 서문
 
