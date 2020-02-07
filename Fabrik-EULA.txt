@@ -12,7 +12,7 @@ http://github.com/Flug-in-Fabrik 에서 제공되는 모든 소프트웨어는 R
 
 # Fabrik-EULA 서문
 
-본 최종 사용자 라이선스 계약(End-User-Lisence Agreement,"EULA")은 소프트웨어 및 기타 저작물에 대한 저작권 사용권으로서, 저작물의 비상업적인 활용을 보장하기 위해 특별히 고안되었다.
+본 최종 사용자 라이선스 계약(End-User-License Agreement,"EULA")은 소프트웨어 및 기타 저작물에 대한 저작권 사용권으로서, 저작물의 비상업적인 활용을 보장하기 위해 특별히 고안되었다.
 
 저작권저작물을 사용하기 위해서는 Fabrik-EULA 내의 모든 조건을 수락하는 경우 한해 제공된다. 이 라이선스의 경우에는, 최종 라이선스 동의(End-user-License Agreement)로 대체한다.
 
